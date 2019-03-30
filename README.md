@@ -1,7 +1,8 @@
 # website
-This is my portfolio website. 
+This is my portfolio website. https://dwizkumar.github.io/website/
 
-For Contacting me please use below url:
+
+For contacting me please use below url:
 
 https://people.rit.edu/dxk3754/DwizKumar_Portfolio/
 
