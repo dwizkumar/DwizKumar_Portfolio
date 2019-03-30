@@ -1,5 +1,5 @@
 # website
-This is my portfolio website. https://dwizkumar.github.io/website/
+This is my portfolio website. https://dwizkumar.github.io/
 
 
 For contacting me please use below url:
